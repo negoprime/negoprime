@@ -1,4 +1,4 @@
-![image](https://github.com/negoprime/negoprime/assets/137151844/ad8b2d15-448f-4a78-b3a0-c224480c5b0d)- 👋 Hi, I’m Utsav
+- 👋 Hi, I’m Utsav
 - 👀 I’m interested in learning frontend work 
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on any project on frontend development
